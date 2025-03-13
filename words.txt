@@ -2,3 +2,6 @@ Right
 Left 
 up 
 down
+i 
+x
+r
